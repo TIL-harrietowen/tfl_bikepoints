@@ -1,3 +1,8 @@
 /.DS_Store
-/BikePoints_*.json
 /venv
+
+/data
+*.json
+
+/logs
+*.log
