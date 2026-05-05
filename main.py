@@ -20,3 +20,10 @@ for i in range(number_of_ids):
     ID = data[i]['id']
     with open(f"{ID}.json", "w") as file:
         json.dump(data, file)
+
+
+
+# #to add:
+# data directory
+# retry - via while loops
+# Logging
